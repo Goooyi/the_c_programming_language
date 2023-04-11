@@ -1,2 +1,2 @@
-# the_c-_programming_language
+# The C Programming Language
 My Exercise Solutions
